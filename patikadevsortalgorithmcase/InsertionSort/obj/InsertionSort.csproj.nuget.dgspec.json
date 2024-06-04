@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\c# projelerim\\patikadevsortalgorithmcase\\InsertionSort\\InsertionSort.csproj": {}
+    "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\csharp\\patikadevsortalgorithmcase\\InsertionSort\\InsertionSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\c# projelerim\\patikadevsortalgorithmcase\\InsertionSort\\InsertionSort.csproj": {
+    "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\csharp\\patikadevsortalgorithmcase\\InsertionSort\\InsertionSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\c# projelerim\\patikadevsortalgorithmcase\\InsertionSort\\InsertionSort.csproj",
+        "projectUniqueName": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\csharp\\patikadevsortalgorithmcase\\InsertionSort\\InsertionSort.csproj",
         "projectName": "InsertionSort",
-        "projectPath": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\c# projelerim\\patikadevsortalgorithmcase\\InsertionSort\\InsertionSort.csproj",
+        "projectPath": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\csharp\\patikadevsortalgorithmcase\\InsertionSort\\InsertionSort.csproj",
         "packagesPath": "C:\\Users\\mhmtb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\c# projelerim\\patikadevsortalgorithmcase\\InsertionSort\\obj\\",
+        "outputPath": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\csharp\\patikadevsortalgorithmcase\\InsertionSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

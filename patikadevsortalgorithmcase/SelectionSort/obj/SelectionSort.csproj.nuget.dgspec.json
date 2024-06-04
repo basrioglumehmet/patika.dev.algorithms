@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\c# projelerim\\patikadevsortalgorithmcase\\SelectionSort\\SelectionSort.csproj": {}
+    "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\csharp\\patikadevsortalgorithmcase\\SelectionSort\\SelectionSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\c# projelerim\\patikadevsortalgorithmcase\\SelectionSort\\SelectionSort.csproj": {
+    "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\csharp\\patikadevsortalgorithmcase\\SelectionSort\\SelectionSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\c# projelerim\\patikadevsortalgorithmcase\\SelectionSort\\SelectionSort.csproj",
+        "projectUniqueName": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\csharp\\patikadevsortalgorithmcase\\SelectionSort\\SelectionSort.csproj",
         "projectName": "SelectionSort",
-        "projectPath": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\c# projelerim\\patikadevsortalgorithmcase\\SelectionSort\\SelectionSort.csproj",
+        "projectPath": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\csharp\\patikadevsortalgorithmcase\\SelectionSort\\SelectionSort.csproj",
         "packagesPath": "C:\\Users\\mhmtb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\c# projelerim\\patikadevsortalgorithmcase\\SelectionSort\\obj\\",
+        "outputPath": "C:\\Users\\mhmtb\\OneDrive\\Masaüstü\\csharp\\patikadevsortalgorithmcase\\SelectionSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

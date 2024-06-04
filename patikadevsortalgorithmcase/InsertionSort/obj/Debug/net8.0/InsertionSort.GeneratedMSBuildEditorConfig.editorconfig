@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InsertionSort
-build_property.ProjectDir = C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\patikadevsortalgorithmcase\InsertionSort\
+build_property.ProjectDir = C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patikadevsortalgorithmcase\InsertionSort\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

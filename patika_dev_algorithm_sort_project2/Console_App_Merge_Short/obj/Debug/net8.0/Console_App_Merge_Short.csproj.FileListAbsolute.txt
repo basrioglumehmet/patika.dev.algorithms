@@ -1,0 +1,15 @@
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\bin\Debug\net8.0\Console_App_Merge_Short.exe
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\bin\Debug\net8.0\Console_App_Merge_Short.deps.json
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\bin\Debug\net8.0\Console_App_Merge_Short.runtimeconfig.json
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\bin\Debug\net8.0\Console_App_Merge_Short.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\bin\Debug\net8.0\Console_App_Merge_Short.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\obj\Debug\net8.0\Console_App_Merge_Short.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\obj\Debug\net8.0\Console_App_Merge_Short.AssemblyInfoInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\obj\Debug\net8.0\Console_App_Merge_Short.AssemblyInfo.cs
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\obj\Debug\net8.0\Console_App_Merge_Short.csproj.CoreCompileInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\obj\Debug\net8.0\Console_App_Merge_Short.sourcelink.json
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\obj\Debug\net8.0\Console_App_Merge_Short.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\obj\Debug\net8.0\refint\Console_App_Merge_Short.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\obj\Debug\net8.0\Console_App_Merge_Short.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\obj\Debug\net8.0\Console_App_Merge_Short.genruntimeconfig.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\csharp\patika_dev_algorithm_sort_project2\Console_App_Merge_Short\obj\Debug\net8.0\ref\Console_App_Merge_Short.dll
