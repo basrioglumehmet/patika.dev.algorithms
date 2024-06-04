@@ -1,0 +1,14 @@
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\bin\Debug\net8.0\InsertionSort.exe
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\bin\Debug\net8.0\InsertionSort.deps.json
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\bin\Debug\net8.0\InsertionSort.runtimeconfig.json
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\bin\Debug\net8.0\InsertionSort.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\bin\Debug\net8.0\InsertionSort.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\obj\Debug\net8.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\obj\Debug\net8.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\obj\Debug\net8.0\InsertionSort.AssemblyInfo.cs
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\obj\Debug\net8.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\obj\Debug\net8.0\InsertionSort.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\obj\Debug\net8.0\refint\InsertionSort.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\obj\Debug\net8.0\InsertionSort.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\obj\Debug\net8.0\InsertionSort.genruntimeconfig.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\c# projelerim\CASE_Patika_Dev_Sort_Algorithms\InsertionSort\obj\Debug\net8.0\ref\InsertionSort.dll
