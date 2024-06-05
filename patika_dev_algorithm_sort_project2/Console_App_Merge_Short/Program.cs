@@ -2,7 +2,7 @@
     // Proje 2
     // [16,21,11,8,12,22] -> Merge Sort
     // Yukarıdaki dizinin sıralama türüne göre aşamalarını yazınız.
-    // Big-O gösterimini yazınız.
+    // Big-O gösterimini yazınız. O(nlogn)
     int[] unshorted = { 16, 21, 11, 8, 12, 22 };
     // Diziyi Merge Sort algoritması ile sıralıyoruz
     SortByMerge(unshorted);

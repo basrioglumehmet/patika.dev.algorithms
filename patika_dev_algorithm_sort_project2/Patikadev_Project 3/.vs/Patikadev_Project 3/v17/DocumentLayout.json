@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhmtb\\source\\repos\\Patikadev_Project 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E95F8587-C8E6-4C22-BB16-F47623104C5F}|Binary Search\\Binary Search.csproj|c:\\users\\mhmtb\\source\\repos\\patikadev_project 3\\binary search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95F8587-C8E6-4C22-BB16-F47623104C5F}|Binary Search\\Binary Search.csproj|solutionrelative:binary search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95F8587-C8E6-4C22-BB16-F47623104C5F}|Binary Search\\Binary Search.csproj|c:\\users\\mhmtb\\source\\repos\\patikadev_project 3\\binary search\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95F8587-C8E6-4C22-BB16-F47623104C5F}|Binary Search\\Binary Search.csproj|solutionrelative:binary search\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95F8587-C8E6-4C22-BB16-F47623104C5F}|Binary Search\\Binary Search.csproj|c:\\users\\mhmtb\\source\\repos\\patikadev_project 3\\binary search\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95F8587-C8E6-4C22-BB16-F47623104C5F}|Binary Search\\Binary Search.csproj|solutionrelative:binary search\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\mhmtb\\source\\repos\\Patikadev_Project 3\\Binary Search\\Node.cs",
+              "RelativeDocumentMoniker": "Binary Search\\Node.cs",
+              "ToolTip": "C:\\Users\\mhmtb\\source\\repos\\Patikadev_Project 3\\Binary Search\\Node.cs",
+              "RelativeToolTip": "Binary Search\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:12:09.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\mhmtb\\source\\repos\\Patikadev_Project 3\\Binary Search\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "Binary Search\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\mhmtb\\source\\repos\\Patikadev_Project 3\\Binary Search\\BinarySearchTree.cs",
+              "RelativeToolTip": "Binary Search\\BinarySearchTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:11:30.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhmtb\\source\\repos\\Patikadev_Project 3\\Binary Search\\Program.cs",
+              "RelativeDocumentMoniker": "Binary Search\\Program.cs",
+              "ToolTip": "C:\\Users\\mhmtb\\source\\repos\\Patikadev_Project 3\\Binary Search\\Program.cs",
+              "RelativeToolTip": "Binary Search\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:02:48.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
