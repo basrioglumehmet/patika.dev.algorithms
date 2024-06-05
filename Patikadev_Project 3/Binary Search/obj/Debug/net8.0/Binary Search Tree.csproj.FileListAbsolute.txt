@@ -1,0 +1,14 @@
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\obj\Debug\net8.0\Binary Search Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\obj\Debug\net8.0\Binary Search Tree.AssemblyInfoInputs.cache
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\obj\Debug\net8.0\Binary Search Tree.AssemblyInfo.cs
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\obj\Debug\net8.0\Binary Search Tree.csproj.CoreCompileInputs.cache
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\bin\Debug\net8.0\Binary Search Tree.exe
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\bin\Debug\net8.0\Binary Search Tree.deps.json
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\bin\Debug\net8.0\Binary Search Tree.runtimeconfig.json
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\bin\Debug\net8.0\Binary Search Tree.dll
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\bin\Debug\net8.0\Binary Search Tree.pdb
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\obj\Debug\net8.0\Binary Search Tree.dll
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\obj\Debug\net8.0\refint\Binary Search Tree.dll
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\obj\Debug\net8.0\Binary Search Tree.pdb
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\obj\Debug\net8.0\Binary Search Tree.genruntimeconfig.cache
+C:\Users\mhmtb\source\repos\Patikadev_Project 3\Binary Search\obj\Debug\net8.0\ref\Binary Search Tree.dll
